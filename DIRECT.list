@@ -1,0 +1,16 @@
+#韩语
+DOMAIN-SUFFIX,jiaojq.vip,DIRECT
+
+#中转站
+DOMAIN-SUFFIX,api.juhe365.vip,DIRECT
+DOMAIN-SUFFIX,linkcode.site,DIRECT
+
+#Emby弹幕
+DOMAIN-SUFFIX,dm.660505.xyz,DIRECT
+DOMAIN-SUFFIX,ybdm.saodu.wang,DIRECT
+DOMAIN-SUFFIX,dm.liuuu.top,DIRECT
+DOMAIN-SUFFIX,danmu.syemby.com,DIRECT
+DOMAIN-SUFFIX,dm.wodenas.xin,DIRECT
+
+#Emby播放器
+DOMAIN-SUFFIX,senmuse.com,DIRECT
