@@ -1,3 +1,4 @@
+#Instagram
 DOMAIN-SUFFIX,instagram.com,Instagram_韩国
 DOMAIN-SUFFIX,cdninstagram.com,Instagram_韩国
 DOMAIN-SUFFIX,instagr.am,Instagram_韩国
@@ -7,3 +8,6 @@ DOMAIN-SUFFIX,fbsbx.net,Instagram_韩国
 DOMAIN-SUFFIX,fbcdn.net,Instagram_韩国
 DOMAIN-SUFFIX,fbcdn.com,Instagram_韩国
 DOMAIN,fbcdn-a.akamaihd.net,Instagram_韩国
+
+#韩语打字
+DOMAIN-SUFFIX,hancomtaja.com,Instagram_韩国
