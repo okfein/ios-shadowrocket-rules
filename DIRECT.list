@@ -6,10 +6,22 @@ DOMAIN-SUFFIX,api.juhe365.vip,DIRECT
 DOMAIN-SUFFIX,linkcode.site,DIRECT
 
 #Emby弹幕
+#小浔
+DOMAIN-SUFFIX,88920.dpdns.org,DIRECT
+#xt
+DOMAIN-SUFFIX,dm.wodenas.xin,DIRECT
+#
 DOMAIN-SUFFIX,dm.660505.xyz,DIRECT
+#麦当劳
 DOMAIN-SUFFIX,ybdm.saodu.wang,DIRECT
+#墨云阁
 DOMAIN-SUFFIX,dm.liuuu.top,DIRECT
+#瞬影
 DOMAIN-SUFFIX,danmu.syemby.com,DIRECT
+DOMAIN-SUFFIX,dm.syemby.com,DIRECT
+#乐蛙
+DOMAIN-SUFFIX,dm.taotu.ink,DIRECT
+
 DOMAIN-SUFFIX,dm.wodenas.xin,DIRECT
 
 #Emby播放器
