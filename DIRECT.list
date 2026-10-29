@@ -26,3 +26,15 @@ DOMAIN-SUFFIX,dm.wodenas.xin,DIRECT
 
 #Emby播放器
 DOMAIN-SUFFIX,senmuse.com,DIRECT
+
+
+# mono 线路检测探针 —— 写错会带偏播放器内部选线，唯一必须显式钉死的
+IP-CIDR,114.66.37.231/32,DIRECT,no-resolve
+
+# 网易云音源 CDN（非 .cn 结尾，不被宽泛规则覆盖）
+DOMAIN-SUFFIX,music.126.net,DIRECT
+
+# 网易云音频 IP 段兜底（覆盖走原始 IP、不带域名的请求）
+IP-CIDR,59.111.128.0/17,DIRECT,no-resolve
+IP-CIDR,115.236.112.0/20,DIRECT,no-resolve
+IP-CIDR,223.252.192.0/19,DIRECT,no-resolve
